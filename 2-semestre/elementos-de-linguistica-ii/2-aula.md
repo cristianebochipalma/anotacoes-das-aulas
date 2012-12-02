@@ -1,3 +1,6 @@
+Aula 2
+======
+
 Semântica baseada em condições de verdade: saber o significado de uma sentença é saber sua verdade.
 
 Referencia = extensão = denotação

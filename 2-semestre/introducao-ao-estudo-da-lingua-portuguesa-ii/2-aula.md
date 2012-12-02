@@ -1,4 +1,7 @@
-Gedusp!
+Aula 2
+======
+
+Gedusp.
 
 Enunciação. Teoria da enunciação.
 
@@ -17,13 +20,14 @@ Estão ligados ao caráter dialógico da enunciação.
 dia = por meio de
 lógico = palavra
 dialógico = por meio da palavra
+
 Há sempre um 'eu' que se remete a um 'tu'. Referem-se a pessoas. Ele e ela nunca serão sujeitos da oração, mas sim objetos, é não-pessoa, não fazem parte da subjetividade (é a capacidade do locutor para se propor como sujeito).
 No texto falado e escrito a enunciação é a mesma, mas ocorre de forma diferente: linguagem verbal apoiada num contexto paralinguístico, que não é propriamente linguístico, como entoação, ritmo, alongamento; extra-linguístico, que não é linguístico: gestos, situação, espaço físico, estar diante da namorada, amigo, adversário.
 
 Conceitualmente, a enunciação falada e escrita se equivalem, mas na sua concretização, são diferentes (por conta dos fatores citados anteriormente).
 
-- Te amo, disse com frieza.
-- Te amo, disse com doçura.
+- Te amo, `disse com frieza`.
+- Te amo, `disse com doçura`.
 Verbalizar o que não é verbal.
 
 Nossa mente está programada para entender apenas o sujeito gramatical. Na teoria da enunciação é preciso ir além disso.

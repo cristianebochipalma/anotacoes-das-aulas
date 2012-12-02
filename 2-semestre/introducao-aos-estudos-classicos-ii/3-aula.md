@@ -1,5 +1,5 @@
-Terceira aula
-=============
+Aula 3
+======
 
 Antígona é ápolis, alheia a sua pátria. Isso, para a época, é uma atitude desprezível.
 

@@ -1,5 +1,5 @@
-Sexta aula
-==========
+Aula 6
+======
 
 Enunciações da notícia de jornal
 --------------------------------

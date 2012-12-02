@@ -1,3 +1,6 @@
+Aula 2
+======
+
 Tragédia grega.
 Coro, coletividade.
 Os personagens são retratados com fatos passados. Já se retratou elementos contemporâneos, mas causou grande impacto na sociedade. Já o coro remonta a contextos do presente.

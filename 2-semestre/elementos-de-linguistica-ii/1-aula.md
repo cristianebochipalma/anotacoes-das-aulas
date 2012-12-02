@@ -1,3 +1,6 @@
+Aula 1
+======
+
 Primeira prova: 24/09.
 Segunda prova: 14/11.
 Recuperação: 26/11 - conteúdo do semestre todo.

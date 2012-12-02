@@ -1,3 +1,6 @@
+Aula 1
+======
+
 O Brasil é um dos poucos países em que Libras é uma língua oficial, regulamentada por lei. Há uma lei que a define como a língua oficial da comunidade surda.
 
 Teremos que dar uma aula em libras antes da prova.

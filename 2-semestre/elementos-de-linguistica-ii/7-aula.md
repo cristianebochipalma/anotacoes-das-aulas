@@ -1,5 +1,5 @@
-Aula sete
-=========
+Aula 7
+======
 
 Textos no xerox: Fernando Taralo; Faraco. Textos referentes a semana após o feriado.
 

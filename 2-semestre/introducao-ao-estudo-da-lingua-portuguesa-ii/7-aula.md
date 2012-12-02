@@ -1,3 +1,6 @@
+Aula 7
+======
+
 Enunciações da notícia de jornal
 --------------------------------
 

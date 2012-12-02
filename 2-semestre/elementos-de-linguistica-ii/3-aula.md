@@ -1,3 +1,6 @@
+Aula 3
+======
+
 Não saber se a sentença é verdadeira ou falsa, mas saber as condições necessárias para ela ser verdadeira ou falsa - conhecimento de mundo.
 
 Teoria composicional, semântica composicional. Não conhecemos todas as sentenças possíveis, mas entendêmo-as praticamente todas.

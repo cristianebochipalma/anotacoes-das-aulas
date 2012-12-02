@@ -1,5 +1,5 @@
-Aula cinco
-==========
+Aula 5
+======
 
 Um delegado investigando um suposto criminoso mão mantém um diálogo cooperativo, pois ambos não possuem objetivos compartilhados: um quer descobrir o autor do crime, e outro quer esconder isso. Tudo isso pé racional, mas não parte da premissa de cooperação.
 

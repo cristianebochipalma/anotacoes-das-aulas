@@ -1,20 +1,32 @@
-Amor, sexo e tragédia, Simon Goldbull.
-A tragédia grega, A tragédia e os gregos, capítulo 1, Jaqueline Rowilly.
-B. Knox.
-Vernant.
+Aula um
+=======
 
-Teatro
+Leituras indicadas
+------------------
 
-Antígona, Sófocles, V a.c. Tradução do Gulhierme de Almeida.
+1. Amor, sexo e tragédia, Simon Goldbull.
+2. A tragédia grega, A tragédia e os gregos, capítulo 1, Jaqueline Rowilly.
+3. B. Knox.
+4. Vernant.
+
+Conteúdo do semestre
+--------------------
+
+1. Teatro
+
+Antígona, Sófocles, V a.c. Tradução do Guilherme de Almeida.
 Anfitrião, Plauto, III-II a.c.
 
-Prosa
+2. Prosa
 
 Fedro, Platão, IV a.c.
 Retórica, Aristóteles, IV a.c.
 
 Serão trabalhados nessa ordem os textos.
 Retórica será abordada se tiver tempo.
+
+Comentários
+-----------
 
 Platão e Aristóteles, os grandes pensadores gregos.
 Fedro, de Platão, é considerado por uns o melhor dos diálogos de Platão. É um texto difícil, com muitas questões filosóficas. O que é a retórica na grécia antiga - tema desse diálogo. Uso da palavra, como a usamos para persuadir as pessoas. Palavra persuasiva.
