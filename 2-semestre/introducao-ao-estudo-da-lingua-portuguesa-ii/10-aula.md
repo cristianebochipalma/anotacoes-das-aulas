@@ -10,11 +10,15 @@ Conceito: diálogo verbal ou não-verbal.
 
 Conversação pode ser analisada no modo strictu ou no modo latu.
 
-Valesco. Nurc.
+Valesco. NURC.
 
-Prototípico da conversação, fala stricta, conversação de fato: fala oral espontânea. Uma aula não é o prototípico da conversação, mas pode ser tida como conversação.
+- Prototípico da conversação, fala stricta, conversação de fato
 
-Critérios do Valesco para determinar ao prototípico da conversação: oralidade, troca dinâmica dos papéis conversacionais (falante e ouvinte), cooperação (ainda que o interlocutor não fale nada, ele participa; o discurso é produzido por todos os participantes; é possível ter um falante que ouve e um ouvinte que fala); não ter assunto especializado, técnico, deve ser assunto do cotidiano.
+Fala oral espontânea. Uma aula não é o prototípico da conversação, mas pode ser tida como conversação.
+
+- Critérios do Valesco para determinar ao prototípico da conversação
+
+Oralidade, troca dinâmica dos papéis conversacionais (falante e ouvinte), cooperação (ainda que o interlocutor não fale nada, ele participa; o discurso é produzido por todos os participantes; é possível ter um falante que ouve e um ouvinte que fala); não ter assunto especializado, técnico, deve ser assunto do cotidiano.
 
 Histórico da análise da conversação
 -----------------------------------
@@ -23,7 +27,7 @@ Disciplina teórica recente, do final da década de 60 - no Brasil, década de 8
 
 Harvey Sacks teve aula com Garfinkel. Trabalhava numa espécie de CVV, e lá começou a aplicar uma metodologia baseada no que aprendeu com Garfinkel. Percebeu que no local em que trabalhava não bastava atender às ligações e fazer anotações a respeito. Começou, então, a gravar as ligações. Chegou-se a algo chamado sistema de tomada de turno. Turno é a vez de cada um falar.
 
-Erwin Goffman foi outro teórico importante. Todos os seres humanos, em sociedade, representam. Professor, neste momento, representa seu papel social de professor, e eu meu papel social de aluno. Em casa, em certo momento, represento o papel social de filho... Ao exercer cada papel diferente, exercemos certas funções também diferentes. O aluno trata o professor por `senhor`, e o professor ao aluno por `você`. Assim, esses papéis geram implicações linguísticas. Qual o papel que a conversação tem nas relações pessoais? Estrutura, funcionamento, mecanismo da conversação.
+Erwin Goffman foi outro teórico importante. Todos os seres humanos, em sociedade, representam. Professor, neste momento, representa seu papel social de professor, e eu meu papel social de aluno. Em casa, em certo momento, represento o papel social de filho. Ao exercer cada papel diferente, exercemos certas funções também diferentes. O aluno trata o professor por `senhor`, e o professor ao aluno por `você`. Assim, esses papéis geram implicações linguísticas. Qual o papel que a conversação tem nas relações pessoais? Estrutura, funcionamento, mecanismo da conversação.
 
 Há uma regularidade nessas conversações. Em culturas germânicas, fala um de cada vez.
 

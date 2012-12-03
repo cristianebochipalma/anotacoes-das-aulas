@@ -1,18 +1,16 @@
 Aula 9
 ======
 
-Oralidade e letramento Marcuschi.
+Oralidade e letramento, Marcuschi.
 
 No latim não havia a letra `v`.
 
 uendere -> vender
 Houve consonantização da vogal.
 
-A escrita não é a representação da fala, pois cada uma tem suas próprias especificidades.
+- A escrita não é a representação da fala, pois cada uma tem suas próprias especificidades.
 
 `Goooooooool` não é próprio da escrita. É uma tentativa de aproximação, representação da fala.
-
-O professor fará um trabalho.
 
 Escrita tem tamanho, tipo de letra.
 
@@ -24,8 +22,8 @@ Diferença entre ser analfabeto e letrado.
 
 Uma pessoa que não sabe ler, chega em São Paulo pela primeira vez na rodoviária e tem que descer no Paraíso, pra visitar o irmão. Sozinho, consegue fazer isso, sem conhecer nada? Não, precisa saber ler, ou então perguntar às pessoas, que deverão indicar da seguinte forma: você pega o metrô desse lado, e desce em três estações. É muito difícil viver numa cidade grande sem passar por experiências de letramento.
 
-Apropriação mínima do letramento: pessoa analfabeta, mas que sabe diferenciar no supermercado as embalagens de leite condensado.
-Apropriação máxima: pessoa capaz de escrever um tratado de filosofia.
+- Apropriação mínima do letramento: pessoa analfabeta, mas que sabe diferenciar no supermercado as embalagens de leite condensado.
+- Apropriação máxima: pessoa capaz de escrever um tratado de filosofia.
 
 Oralidade: é uma prática social fundamentada cuja gênese está no meio sonoro, ou fônico.
 
@@ -35,6 +33,6 @@ Tiririca: analfabeto, mas letrado.
 
 Gênese de um texto sob a égide da escrituralidade, oralidade...
 
-Gênero e subgênero: escrevendo um e-mail pro chefe de departamento, o gênero é e-mail, e o subgênero deve se basear, no caso, na escrituralidade.
+- Gênero e subgênero: escrevendo um e-mail pro chefe de departamento, o gênero é e-mail, e o subgênero deve se basear, no caso, na escrituralidade.
 
-Essa ideia de gênero e subgênero ajuda a não distinguir tão preto no branco fala e escrita, pois não é assim tão simples, do tipo é gráfico, é escrita, é fônico, é fala.
+- Essa ideia de gênero e subgênero ajuda a não distinguir tão preto no branco fala e escrita, pois não é assim tão simples, do tipo é gráfico, é escrita, é fônico, é fala.

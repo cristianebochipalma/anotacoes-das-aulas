@@ -2,9 +2,9 @@ Aula 8
 ======
 
 Gêneros são determinados pelas formas.
-Subgeneros são determinados pelo conteúdo.
+Subgêneros são determinados pelo conteúdo.
 
-Gênero, Marcuschi, bahktin.
+Gênero, Marcuschi, Bahktin.
 
 Rubem Alves, quarto de badulaques.
 Mudar o gênero desse texto.

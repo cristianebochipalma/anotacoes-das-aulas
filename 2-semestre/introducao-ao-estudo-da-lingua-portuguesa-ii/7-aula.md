@@ -11,7 +11,9 @@ Aqui `Eis aqui um exemplo: a `descoberta` da fusão fria...` descoberta está en
 
 `Essa história tem várias morais. Uma delas é que cientistas também podem cair no conto do vigário. Mas só por algum tempo! Outra moral é que os cientistas devem ter mais cuidado em ir até a mídia quando julgam ter uma grande descoberta em suas mãos. Mais relevante para nossa discussão, os cientistas não têm a priori a cabeça fechada para fenômenos "estranhos"; apenas para fenômenos que se recusam a ser reconfirmados no laboratório`
 É dito que cientistas não são enganados, a não ser por pouco tempo.
+
 `Nossa discussão` faz menção aos cientistas, ao autor e o leitor.
+
 `Estranhos` está entre aspas porque se relaciona com a abertura que o cientista tem para os fatos diferentes, mas que não está aberto ao engano, ao que não se pode comprovar.
 
 `Seria fascinante se houvesse uma força desconhecida que pudesse influenciar nosso comportamento _ou pelo menos indicar tendências_ a partir de um arranjo cósmico em que nós, como indivíduos, participássemos ativamente, um tipo de astronomia personalizada`.
