@@ -7,11 +7,11 @@ Professor Luiz Antônio da Silva
 Prova 1
 -------
 
-*1. GRICE, H. P. Lógica e conversação. In: DASCAL, Marcelo (Org.). Fundamentos metodológicos da linguística. São Paulo: Global.
+1. GRICE, H. P. Lógica e conversação. In: DASCAL, Marcelo (Org.). Fundamentos metodológicos da linguística. São Paulo: Global.
 
 2. GRILLO, Sheila V. de G. (2005). Discurso alheio: apreensão e polifonia. In: SILVA, Luiz Antônio da (Org.). A língua que falamos. Português: história, variação e discurso. São Paulo: Globo, p. 73-104.
 
-*3. MARCUSCHI, Luiz Antonio (2001). Oralidade e letramento. In: Da fala para a escrita: atividades de retextualização. São Paulo Cortez, p. 15-43.
+3. MARCUSCHI, Luiz Antonio (2001). Oralidade e letramento. In: Da fala para a escrita: atividades de retextualização. São Paulo Cortez, p. 15-43.
 
 4. URBANO, Hudinilson (2006). Usos da linguagem verbal. In: PRETI, Dino (Org.). Oralidade em diferentes discursos. São Paulo: Humanitas, p. 19-55.
 
@@ -23,7 +23,7 @@ Prova 2
 
 1. SILVA, Luiz Antônio da (2005). Conversação: modelos de análise. In: SILVA, Luiz Antônio da (Org.). A língua que falamos. Português: história, variação e discurso. São Paulo: Globo, p. 31-71.
 
-*2. SILVA, Luiz Antônio da (2009). Os diálogos: uma comparação entre textos falados. In: GIL, Beatriz; CARDOSO, Elis de A. & CONDE, valéria G. (Orgs.). Modelos de análise linguística. São Paulo: Contexto, p. 201-220.
+2. SILVA, Luiz Antônio da (2009). Os diálogos: uma comparação entre textos falados. In: GIL, Beatriz; CARDOSO, Elis de A. & CONDE, valéria G. (Orgs.). Modelos de análise linguística. São Paulo: Contexto, p. 201-220.
 
 3. MARCUSCHI, Luiz Antônio (1986). Características organizacionais da conversação. Organização turno a turno. Organização de sequências. In: Análise da conversação. São Paulo: Ática, p. 14-52.
 
