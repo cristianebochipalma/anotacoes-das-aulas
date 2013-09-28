@@ -96,4 +96,4 @@ Graciliano diz que não existiu literatura brasileira até então, pois ele deu 
 
 Apesar disso, de querer se aproximar da linguagem dos caboclos, tem uma obcessão pela gramática, e escreve de forma extremamente correta, mas não de forma bacharelesca, urbana. Mas o escrever bem de Cyro dos Anjos é diferente do escrever bem de Graciliano.
 
-Paulo Honório quer conseguir, pelo matrimônio, manter o patrimônio. Isso é uma reviravolta na narrativa, que é preparada com um abrandamento anterior. Agora ele quer se apossar de uma mulher, e não mais de uma fazenda. Assim a narrativa se acelera novamente.
+Paulo Honório quer conseguir, pelo matrimônio, manter o patrimônio. Isso é uma reviravolta na narrativa, que é preparada com um abrandamento anterior. Agora ele quer se apossar de uma mulher, e não mais de uma fazenda. Assim a narrativa se acelera novamente. Acertam o casamento como se fosse um negócio.
