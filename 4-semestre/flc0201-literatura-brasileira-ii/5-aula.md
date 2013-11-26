@@ -6,7 +6,7 @@ Romance de 30
 
 Retomada do realismo/naturalismo do séxulo XIX.
 
-Para os autores não importa tanto a experimentação formal. Isso dá lugar a preocupação quase que exlcusiva com o tema: captação quase direta da realidade. Os objetivos dos autores da época quase que convergiram pra isso.
+Para os autores não importa tanto a experimentação formal. Isso dá lugar a preocupação quase que exclusiva com o tema: captação quase direta da realidade. Os objetivos dos autores da época quase que convergiram pra isso.
 
 Nos anos 40 há uma inversão novamente desses objetivos. Retomarão o diálogo com a década de 20, com a experimentação.
 
@@ -42,7 +42,7 @@ Espera-se que os romances urbanos fiquem na dualidade esquerda x direita, mas h�
 Romance regionalista nordestino
 -------------------------------
 
-Gilberto Freyre é o primeiro nome. Criou um manifesto regionalista: valorizar tradições, em especial as do nordeste - culinária, arquitetura, casarões, cultura sertaneja. Tom provocado, de manifesto, de escândalo. Diz que o temperamento brasileiro se revela mais no tempero das comidas do que nas poesias. Pedido de parar de dialogar com coisas estrangeiras e olhar mais para o que é brasileiro: um tutu de feijão vale mais do que um quadro de picasso. Para ele, todos os escritores deviam se voltar para sua infância.
+Gilberto Freyre é o primeiro nome. Criou um manifesto regionalista: valorizar tradições, em especial as do nordeste - culinária, arquitetura, casarões, cultura sertaneja. Tom provocado, de manifesto, de escândalo. Diz que o temperamento brasileiro se revela mais no tempero das comidas do que nas poesias. Pedido de parar de dialogar com coisas estrangeiras e olhar mais para o que é brasileiro: um tutu de feijão vale mais do que um quadro de Picasso. Para ele, todos os escritores deviam se voltar para sua infância.
 
 Vontade de que o Brasil reconhecesse a literatura do norte, que é diferente da literatura do sul, no sentido de ser considerada mais autêntica e mais brasileira, como se o nordeste tivesse ficado mais distante das influências estrangeiras, recebeu menos imigrantes, refúgio da alma brasileira.
 

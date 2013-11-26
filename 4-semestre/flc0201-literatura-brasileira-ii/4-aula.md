@@ -6,15 +6,15 @@ Aula sobre o conto `Túmulo, túmulo, túmulo`, de Mario de Andrade
 
 Há controvérsia sobre a qualidade do autor. Poesia do Mario é vista com reticência. Já na prosa o professor acha que não há discussão sobre sua qualidade, haja vista Macunaíma.
 
-Professor comentou que se Macunaíma, Zé Celso, forem de outros países que não o Brasil, seriam mais valorizadas, estudadas.
+Professor comentou que se Macunaíma, Zé Celso, fossem de outros países que não o Brasil, seriam mais valorizados, estudados.
 
 Em especial no conto, professor pensa não haver discussão sobre a qualidade da obra. Perguntaram pra Mario uma vez o que é conto, e ele respondeu com `conto é tudo aquilo que o autor quer chamar de conto`. Essa definição é frágil, pois qualquer coisa pode ser conto.
 
 Túmulo, túmulo, túmulo é uma obra prima. Preocupação que denuncia o que está por vir na década de 30.
 
-Mario não era aristocrata, mas era amigo da aristocracia. Belasarte é o contrário, e cria uma simulação de aproximação desse personagem com o autor. `Belasarte me contou`, é assim, com essa rubrica, com esse bordão, que começa todo conto. Há um narrador oral, que conhece as histórias, e isso possibilita uma aproximação com o universo retratado. É feito o uso do discurso indireto-livre, que tira a secura que há na história de Gaetaninho, por exemplo. Em `Piá não sofre sofre` esse discurso indireto-livre fica bastante abundante.
+Mario não era aristocrata, mas era amigo da aristocracia. Belazarte é o contrário, e cria uma simulação de aproximação desse personagem com o autor. `Belazarte me contou`, é assim, com essa rubrica, com esse bordão, que começa todo conto. Há um narrador oral, que conhece as histórias, e isso possibilita uma aproximação com o universo retratado. É feito o uso do discurso indireto-livre, que tira a secura que há na história de Gaetaninho, por exemplo. Em `Piá não sofre sofre` esse discurso indireto-livre fica bastante abundante.
 
-Mario vive como Belasarte, com altos e baixos. Mario comprou `fiado` obras de Anita Malfati. Dona Mariquinha é de fato o apelido da mãe de Mario. Há elementos de sobra para se ver um caráter autobiográfico. Pode se dizer que há um gesto de desmascarar a si mesmo, uma auto-crítica. Tirar caráter de classe da literatura, ver processo de modernização a partir da periferia.
+Mario vive como Belazarte, com altos e baixos. Mario comprou `fiado` obras de Anita Malfati. Dona Mariquinha é de fato o apelido da mãe de Mario. Há elementos de sobra para se ver um caráter autobiográfico. Pode se dizer que há um gesto de desmascarar a si mesmo, uma auto-crítica. Tirar caráter de classe da literatura, ver processo de modernização a partir da periferia.
 
 Mario tem uma consciência das distâncias sociais, e provavelmente isso o levou a escrever esse conto - do contrário seria artificial.
 
@@ -30,7 +30,7 @@ Grandeza do Mario está em desmascarar o bom patrão - tipo quem contrata empreg
 
 Espírito contraditório do próprio Mario.
 
-Até que ponto Belasarte é moderno, esclarecido?
+Até que ponto Belazarte é moderno, esclarecido?
 
 Vontade de contratar um criado, pois estava em situação financeira estável. Queria um criado brasileiro, preto. Há o reconhecimento de que isso é por capricho, e não necessidade. Qual o capricho? Desejo de se sentir senhor, dono. Indício de um ranço escravista. Prudêncio, personagem escravo que apanhava do menino Brás Cubas. Isso poderia soar libertário, mas é bem o contrário.
 
@@ -39,8 +39,8 @@ Leitura a contrapelo: ler contra o narrador, para ver o que ele não mostra, afi
 A consciência do personagem não é moderna, mas sim ligada a alguém que ainda está associado com valores arcaicos.
 
 - `É negro, mas...` Há aqui evidente preconceito.
-- `Gente que não pensa e não viveu o passado`
-- Amizade como algo sublime em contraponto com a função da mulher de reproduzir
+- `Gente que não pensa e não viveu o passado`.
+- Amizade como algo sublime em contraponto com a função da mulher de reproduzir.
 
 Criado não é eficiente, mas ele ainda assim continua na sua função. Ou por desejo sexual ou pela necessidade de haver um `criado moral`, para ele ser senhor. Não há amizade: há admiração à subserviência, há amizade ao criado que obedece. Há uma tese que fala que o tema central desse conto é a amizade, mas isso é uma leitura muito ingênua, pois o tema central é o preconceito.
 

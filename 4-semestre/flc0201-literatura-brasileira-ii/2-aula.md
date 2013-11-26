@@ -24,7 +24,7 @@ Os sertões
 O que era pensamento social brasileiro do século XIX para o XX?
 - Teorias raciais. Ideologia das diferenças das raças. Isso chegou ao Brasil dos país países desenvolvidos.
 - Raças puras são superiores às raças mestiças. E no Brasil há muito essa mistura, e conforme esse pensamento, isso explica o atraso do país.
-- Pensava-se que a pessoajá nascia com as suas características todas. Se o cérebro, por exemplo, tem tal formato, a pessoa será nazista, por exemplo, e é melhor matá-la.
+- Pensava-se que a pessoa já nascia com todas as suas características. Se o cérebro, por exemplo, tem tal formato, a pessoa será nazista, por exemplo, e é melhor matá-la.
 
 Os sertões é um grande livro que supera essa teoria racista. Já foi dito o melhor livro da literatura brasileira. Temática inovadora: pela primeira vez alguém olha pro sertão, tenta entender aquele cenário geográfico.
 
@@ -57,7 +57,7 @@ Vidas Secas também dialoga com esse livro. Clarice Lispector também, surpreend
 Casa Grande e Senzala
 ---------------------
 
-Gilberto Freyre era um intelectual de direita, muito conervador, mas escreveu um livro revolucionário. Apoiou a ditatura militar. Membro da aristocracia açucareira pernambucana. O livro é sobre a formação do autor.
+Gilberto Freyre era um intelectual de direita, muito conservador, mas escreveu um livro revolucionário. Apoiou a ditatura militar. Membro da aristocracia açucareira pernambucana. O livro é sobre a formação do autor.
 
 Representa uma novidade com relação às teorias raciais. Disse que a mestiçagem é bacana, que os portugueses propiciaram uma convivência democrática entre as raças.
 

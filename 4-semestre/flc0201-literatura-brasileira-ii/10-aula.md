@@ -2,12 +2,11 @@ Aula 10
 =======
 
 * 03 e 04/10 - Angústia.
+* 10 a 18/10: Sem aula.
 * 24 e 25/10 - Vidas Secas.
 * 25/10 - Entrega de trabalhos.
 
 * 03 e 04/10 - 18h - Plantões (agendar): ivanmarques@usp.br
-
-De 10 a 18/10: sem aula.
 
 Angústia será o momento mais complicado do curso.
 
@@ -28,7 +27,7 @@ Há desde as primeiras páginas referências à revolução de 30. Pode-se dizer
 
 Paulo Honório, diferente das leituras de até então, é uma figura forte, diferente de Carlos de Mello, por exemplo. É o homem da ação, que não se deixa levar. É apresentado com uma secura exemplar: não há nenhum amolecimento. Esse personagem não está acostumado a pensar e se analisar, mas é levado a fazer isso.
 
-Por que Paulo Honório escreve? Essa escrita é movida pela esperança em muda algo, por algum arrependimento.
+Por que Paulo Honório escreve? Essa escrita é movida pela esperança em mudar algo, por algum arrependimento.
 
 Como essas mãos, que foram capazes de tanta brutalidade, agora operam de forma diferente? É como se ele quisesse erguer, ou reerguer a São Bernardo fazenda, que ao fim do livro claramente desmoronou.
 
@@ -42,7 +41,7 @@ Outra hipótese: tudo isso na verdade não passa de uma estratégia do narrador,
 
 `Peso x quilos, fiz x anos`: relato como se estivessse num tribunal, uso de numerais, mostrando a preocupação com números, valores.
 
-O personagem se humaniza ou não? É ou não sincera com o leitor?
+O personagem se humaniza ou não? É ou não sincero com o leitor?
 
 Promete uma confissão integral. E o que está atrás desse gesto é a vontade de persuadir. Se essa hipótese estiver correta, Paulo Honório escritor é mais ardiloso do que Paulo Honório fazendeiro.
 
