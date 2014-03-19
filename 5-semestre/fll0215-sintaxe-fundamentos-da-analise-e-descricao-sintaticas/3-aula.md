@@ -46,4 +46,4 @@ O traço pode existir, mas ele pode não ter uma expressão morfológica. Alguma
 
 As línguas meio que falam as mesmas coisas, mas as marcam de formas diferentes.
 
-Em geral as línguas têm três pessoas.
+Em geral as línguas têm três pessoas.g
