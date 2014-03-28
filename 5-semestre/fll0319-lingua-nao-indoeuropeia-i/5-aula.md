@@ -20,4 +20,4 @@ Laringalização: Voz rangeada (tipo o ranger de uma porta). Gera um tipo fonat�
 
 Línguas ocidentais têm vogais longas.
 
-Para pesquisadores falantes do português a duração não tem valor, então deixamos essa informação passar. Assim, pode haver dados incorretos.rd
+Para pesquisadores falantes do português a duração não tem valor, então deixamos essa informação passar. Assim, pode haver dados incorretos.
